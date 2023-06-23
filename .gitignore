@@ -3,4 +3,5 @@
 # data files
 *.csv
 
-*.json
+*data.json
+data.html
